@@ -1,4 +1,4 @@
-# 🚀 25-DAY INTERNSHIP SPRINT (24 Oct 2025 - 17 Nov 2025)
+# 🚀 25-DAY INTERNSHIP SPRINT (24 Oct 2025 - 23 Nov 2025)
 
 > **Mission:** Secure a high-quality **internship within 30 days** by mastering Core CS, DSA, Backend, AI, and Aptitude — through focused learning, daily execution, and project building.
 
