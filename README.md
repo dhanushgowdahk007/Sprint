@@ -16,7 +16,7 @@ Each day is a step towards building the technical and problem-solving foundation
 ## 📅 Sprint Duration
 
 - **Start Date:** 24th October 2025
-- **End Date:** 17th November 2025
+- **End Date:** 23rd November 2025
 - **Goal:** Internship-Ready Profile + 1–2 Real Projects + Mastery in Core Concepts
 
 ---
