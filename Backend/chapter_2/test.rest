@@ -1,0 +1,22 @@
+### TEST GET / WEBSITE
+
+GET http://localhost:8383/
+
+### TEST GET /dashBoard
+
+GET http://localhost:8383/dashBoard
+
+### TEST GET /api/data
+
+GET http://localhost:8383/api/data
+
+### DATA ENDPOINT FOR POST REQUEST
+POST http://localhost:8383/api/data
+Content-Type: application/json
+
+{
+    "name": "Dhanush Gowda"
+}
+
+### DELETE REQUEST TO DELETE LAST ENTRY
+DELETE http://localhost:8383/api/data
